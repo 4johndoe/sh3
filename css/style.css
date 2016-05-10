@@ -3863,8 +3863,8 @@ blockquote strong, blockquote b {font-weight: 400;}
 .elements_gray_incut TD, .gray_incut TH {padding: 20px 24px 19px 0; font-size: 0.92em;}
 
 .elements_gray_incut TH { font-weight: bold; }
-.elements_gray_incut TD { padding-left: expression( !this.previousSibling ? '25px' : '0'); }
-.elements_gray_incut TH { padding-left: expression( !this.previousSibling ? '25px' : '0'); }
+/*.elements_gray_incut TD { padding-left: expression( !this.previousSibling ? '25px' : '0'); }*/
+/*.elements_gray_incut TH { padding-left: expression( !this.previousSibling ? '25px' : '0'); }*/
 .elements_gray_incut TD:first-child { padding-left: 25px; }
 .elements_gray_incut TH:first-child { padding-left: 25px; }
 /* ---------------------- */
