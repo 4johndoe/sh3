@@ -2,6 +2,7 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 ?>
 
+<<<<<<< HEAD
 <section id="fringe">
   <div class="wrap">
     <ul class="row clearfix">
