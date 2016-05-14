@@ -2,13 +2,13 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 ?>
 
-<<<<<<< HEAD
+
 <section id="fringe">
   <div class="wrap">
     <ul class="row clearfix">
       <li class="first col2">
         <!-- <span class="img_wrap"><a href="/fringe/#event_charles"><img src="images/kickstarter.png" /></a></span> -->
-          <span class="img_wrap"><a href="#"><img src="<?php echo base_url(); ?>images/truck.jpg" /></a></span>
+          <span class="img_wrap"><a href="<?php echo site_url(); ?>/pages/submenu"><img src="<?php echo base_url(); ?>images/truck.jpg" /></a></span>
         <span class="desc_wrap">
           <h4>An Evening With</h4>
           <h3>Автомобильные грузоперевозки</h3>
