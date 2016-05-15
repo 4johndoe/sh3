@@ -6,5 +6,5 @@
  * and open the template in the editor.
  */
 
-echo '<h1>razr</h1>';
+echo '<h1>railway</h1>';
 echo '<br><br><br><br><br><br><br><br><br>';

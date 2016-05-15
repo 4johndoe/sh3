@@ -180,25 +180,26 @@ footer h3 {
  
 footer h3 a {
 	display: block;
-	padding-bottom: 50px;
-	background: url(../images/footer_placeholder.png) 50% 100% no-repeat;
-	background-size: 36px 36px;
+        text-align: left;
+/*	padding-bottom: 50px;*/
+	/*background: url(../images/footer_placeholder.png) 50% 100% no-repeat;*/
+	/*background-size: 36px 36px;*/
 }
 
 footer h3 a.footer_facebook {
-	background-image: url(../images/facebook.jpg);
+	/*background-image: url(../images/facebook.jpg);*/
 	}
 
 footer h3 a.footer_twitter {
-	background-image: url(../images/twitter.jpg);
+	/*background-image: url(../images/twitter.jpg);*/
 	}
 
 footer h3 a.footer_shop {
-	background-image: url(../images/draft.jpg);
+	/*background-image: url(../images/draft.jpg);*/
 	}
 	
 footer h3 a.footer_blog {
-	background-image: url(../images/tumblr.jpg);
+	/*background-image: url(../images/tumblr.jpg);*/
 	}
 
 footer .row li p, footer .row li li {
@@ -696,7 +697,7 @@ section.daynav {
   text-transform: uppercase;
   letter-spacing: 1px;
   line-height: 25px;
-  padding: 25px 0;
+  padding: 0;/*25px 0;*/
   border-top: 1px solid #252424;
   }
 

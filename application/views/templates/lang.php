@@ -10,3 +10,4 @@ defined('BASEPATH') OR exit('No direct script access allowed');
              <a class="lang3" href="#"></a>
      </div>
 </div>
+<hr>

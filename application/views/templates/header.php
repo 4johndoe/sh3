@@ -49,7 +49,7 @@
                        </a>
                  <nav>
                    <ul class="top clearfix">
-                     <li class="first"><a href="#"><span>Автоперевозки</span>Автоперевозки</a></li>
+                     <li class="first"><a href="<?php echo site_url(); ?>/pages/submenu"><span>Автоперевозки</span>Автоперевозки</a></li>
                      <li><a href="#"><span>ЖД перевозки</span>ЖД перевозки</a></li>
                      <li class="last"><a href="#"><span>Контакты</span>Контакты</a></li>
                    </ul>

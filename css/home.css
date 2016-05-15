@@ -12,7 +12,7 @@ li, dt, dd {
 
 hr {
   border: 0;
-  border-top: 1px dashed #d0d0d0;
+  border-top: 1px #d0d0d0; /*dashed #d0d0d0;*/
   margin: 18px 0;
   padding: 0;
   height: 0;
@@ -51,7 +51,7 @@ h4 {
   }
 
 .home section {
-  padding: 75px 0 95px;
+  padding: 0px 0 95px;/*padding: 75px 0 95px;*/
   background:#fff url(../images/section_divider.png) 50% 100% repeat-x;
   border: 0;
   }

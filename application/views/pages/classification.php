@@ -6,5 +6,5 @@
  * and open the template in the editor.
  */
 
-echo '<h1>class</h1>';
+echo '<h1>classification</h1>';
 echo '<br><br><br><br><br><br><br><br><br>';
