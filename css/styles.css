@@ -438,7 +438,7 @@ section.intro_section {
   }
 
 p.intro {
-  text-align: center ;
+  text-align: justify ;
   width: 70%;
   margin: 0 auto;
   color: #909090;
@@ -740,6 +740,10 @@ section.daynav {
 
 .home section#festival .desc_wrap {
   background-image: url(../images/tri_black.png);
+  }
+  
+  section#classification .desc_wrap {
+      background-image: none;
   }
 
 /* Practical */
@@ -1340,7 +1344,7 @@ input.btn {
   }
  
   .home .row .desc_wrap {
-  background-image:url(../images/tri_black@2x.png) !important;
+  // background-image:url(../images/tri_black@2x.png) !important;
   background-size: 14px 7px !important;
   }
 
@@ -1584,7 +1588,7 @@ input.btn {
   
   footer h3 a {
 	  background-size: 36px 36px;
-	  padding-bottom: 45px;
+	  /*padding-bottom: 45px;*/
   	}
   
   #credits {

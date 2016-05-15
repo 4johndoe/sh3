@@ -4,6 +4,7 @@ p, ol, ul, dl, dt, dd, blockquote {
   font-size: 13px;
   line-height: 21px;
   margin: 0 0 21px;
+  text-align: justify;
   }
 
 li, dt, dd {
@@ -98,7 +99,7 @@ h4 {
   float: left;
   margin: 0 2%;
   padding: 0;
-  width: 22%;
+  width: 21%;
   overflow: hidden;
   }
 
@@ -138,6 +139,7 @@ h4 {
   }
 
 .row li p {
+  text-align: left;
   color: #808080;
   margin: 0;
   } 
@@ -230,6 +232,9 @@ section#conference p.dateloc {
 	padding-top: 8px;
 	}
 
+section#permits .row li {
+  width: 30.6%;
+  }
 section#festival .row li {
   width: 30.6%;
   }

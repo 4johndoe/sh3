@@ -1,4 +1,7 @@
 <?php
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+
 
 /* 
  * To change this license header, choose License Headers in Project Properties.
@@ -8,3 +11,4 @@
 
 echo '<h1>photos</h1>';
 echo '<br><br><br><br><br><br><br><br><br>';
+?>

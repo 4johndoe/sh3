@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                     </span>
                 </li>
                 <li class="last">
-                    <span class="img_wrap"><a href="<?php echo site_url(); ?>/pages/template"><img src="<?php echo base_url(); ?>images/music.png" /></a></span>
+                    <span class="img_wrap"><a href="<?php echo base_url(); ?>files/zayava_negabari_rus_шерон.doc"><img src="<?php echo base_url(); ?>images/music.png" /></a></span>
                     <span class="desc_wrap">
                         <h3>Бланк заявки</h3>
                     </span>
