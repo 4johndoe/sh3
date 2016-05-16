@@ -6,7 +6,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <section id="fringe">
   <div class="wrap">
     <h2>Sharon Group LLC</h2>
-    <p class="intro" style="text-align: center;">Международная транспортно-экспедторская компания.</p>
+    <p class="intro" style="text-align: center;">Международная транспортно-экспедиторская компания.</p>
     <ul class="row clearfix">
       <li class="first col2">
           <span class="img_wrap"><a href="<?php echo site_url(); ?>/pages/submenu"><img src="<?php echo base_url(); ?>images/truck.jpg" /></a></span>
