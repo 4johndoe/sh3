@@ -55,9 +55,7 @@
                    </ul>
                    <ul class="bottom clearfix">
                      <li class="first"><a href="<?php echo site_url(); ?>/pages/rules"><span>Законодательство</span>Законодательство</a></li>
-                     <li><a href="#"><span>Фото</span>Фото</a></li>
-                     <li class="last"><a href="#"><span></span></a>
-                        </li>
+                     <li class="last"><a href="<?php echo site_url(); ?>/pages/photos"><span>Фото</span>Фото</a></li>
                    </ul>
                  </nav>
                 </div>
