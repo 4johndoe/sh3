@@ -34,7 +34,7 @@ a:hover {
 h3 {
   font-family: "kulturista-web", Georgia, Times, serif;
   color: #333;
-  font-size: 18px;
+  font-size: 22px;
   line-height: 21px;
   margin-bottom: 21px;
   text-align: center;
@@ -139,7 +139,7 @@ h4 {
   }
 
 .row li p {
-  text-align: left;
+  text-align: justify;
   color: #808080;
   margin: 0;
   } 
@@ -238,6 +238,11 @@ section#permits .row li {
 section#festival .row li {
   width: 30.6%;
   }
+
+section#railway .row li {
+  width: 48%;
+  }
+
  
 section#sponsors .row li {
 	width: 13.3%;
@@ -252,6 +257,10 @@ section#festival .img_wrap {
   background: #191818;
   }
 
+section#railway .img_wrap {
+background: #191818;
+}
+
 section#festival .desc_wrap {
   background-image: url(images/tri_black.png);
   }
@@ -260,6 +269,15 @@ section#festival h3 {
   font-size: 22px;
   line-height: 24px;
   }
+
+section#railway .desc_wrap {
+  background-image: url(images/tri_black.png);
+  }
+
+section#railway h3 {
+  font-size: 22px;
+  line-height: 24px;
+  }  
 
 section#sponsors {
   border: 0;

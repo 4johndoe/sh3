@@ -739,7 +739,7 @@ section.daynav {
   }
 
 .home section#festival .desc_wrap {
-  background-image: url(../images/tri_black.png);
+  /*background-image: url(../images/tri_black.png);*/
   }
   
   section#classification .desc_wrap {
@@ -1349,7 +1349,7 @@ input.btn {
   }
 
   .home section#festival .desc_wrap {
-  background-image:url(../images/tri_black@2x.png) !important;
+  /*background-image:url(../images/tri_black@2x.png) !important;*/
   background-size: 14px 7px !important;
 	  }
 }

@@ -5,6 +5,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 <section id="fringe">
   <div class="wrap">
+    <h2>Sharon Group LLC</h2>
+    <p class="intro" style="text-align: center;">Международная транспортно-экспедторская компания.</p>
     <ul class="row clearfix">
       <li class="first col2">
           <span class="img_wrap"><a href="<?php echo site_url(); ?>/pages/submenu"><img src="<?php echo base_url(); ?>images/truck.jpg" /></a></span>
@@ -16,7 +18,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
       </li>
 
       <li class="last col2">
-        <span class="img_wrap"><a href="#"><img src="<?php echo base_url(); ?>images/train.png" /></a></span>
+        <span class="img_wrap"><a href="<?php echo site_url(); ?>/pages/railway"><img src="<?php echo base_url(); ?>images/train.png" /></a></span>
         <span class="desc_wrap">
             <!--<h4>The Standardistas&#8217;</h4>-->
             <h3>Ж/Д перевозки</h3>

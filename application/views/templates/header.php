@@ -50,11 +50,11 @@
                  <nav>
                    <ul class="top clearfix">
                      <li class="first"><a href="<?php echo site_url(); ?>/pages/submenu"><span>Автоперевозки</span>Автоперевозки</a></li>
-                     <li><a href="#"><span>ЖД перевозки</span>ЖД перевозки</a></li>
-                     <li class="last"><a href="#"><span>Контакты</span>Контакты</a></li>
+                     <li><a href="<?php echo site_url(); ?>/pages/railway"><span>ЖД перевозки</span>ЖД перевозки</a></li>
+                     <li class="last"><a href="#footer"><span>Контакты</span>Контакты</a></li>
                    </ul>
                    <ul class="bottom clearfix">
-                     <li class="first"><a href="#"><span>Законодательство</span>Законодательство</a></li>
+                     <li class="first"><a href="<?php echo site_url(); ?>/pages/rules"><span>Законодательство</span>Законодательство</a></li>
                      <li><a href="#"><span>Фото</span>Фото</a></li>
                      <li class="last"><a href="#"><span></span></a>
                         </li>
